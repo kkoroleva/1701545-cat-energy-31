@@ -42,3 +42,6 @@ _`.github`, `.editorconfig`, `.eslintrc`, `.gitattributes`, `.gitignore`, `.lint
 
 [check-image]: https://github.com/htmlacademy-adaptive/1701545-cat-energy-31/workflows/Project%20check/badge.svg?branch=master
 [check-url]: https://github.com/htmlacademy-adaptive/1701545-cat-energy-31/actions
+
+Hello, World! 
+Hello, World! 
